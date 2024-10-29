@@ -1,0 +1,38 @@
+p{
+
+color:red;
+font-size:  16pt;
+
+
+}
+
+body{ 
+
+color:blue;
+background-color:burlywood;
+font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+
+
+}
+
+img{
+
+width: 300px;
+border: 10px;
+
+}
+
+div
+{
+    
+max-width: 700px;
+margin :auto;
+
+}
+
+.pacifico-regular {
+    font-family: "Pacifico", cursive;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
